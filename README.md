@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arya Badwe</h1>
-<h3 align="center">Software Developer | SOC Intern | Full Stack Developer | Cybersecurity Enthusiast</h3>
+
+<h3 align="center">
+Software Developer | SOC Intern | Full Stack Developer | Cybersecurity Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer;SOC+Intern+at+ESDS;Full+Stack+Developer;Cybersecurity+Enthusiast;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Software+Developer;SOC+Intern+at+ESDS;Full+Stack+Developer;Cybersecurity+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -12,39 +15,39 @@
 - 🎓 BE in Computer Engineering
 - 🎓 PG-DAC Student (CDAC Pune)
 - 🔐 Currently working as a **SOC Intern at ESDS**
-- 💻 Passionate about Full Stack Development & Cyber Security
+- 💻 Passionate about Software Development & Cyber Security
 - 🌱 Currently learning
   - SIEM
-  - SOC Operations
+  - Threat Hunting
   - Incident Response
-  - Detection Engineering
   - Cloud Security
-- 🚀 Love building real-world applications
-- ⚡ Fun Fact: I love Football, Cricket & Technology
+  - Detection Engineering
+- 🚀 Building Full Stack Applications & Security Projects
+- ⚽ Football Enthusiast
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
-### Programming Languages
+### 💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,cs,cpp,c,js,html,css" />
 </p>
 
-### Frameworks & Libraries
+### ⚙️ Frameworks
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,dotnet,nodejs,express,bootstrap" />
 </p>
 
-### Database
+### 🗄️ Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### Cloud & Tools
+### ☁️ Cloud & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,azure,git,github,vscode,postman,linux" />
@@ -88,7 +91,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aryabadwe007&theme=tokyonight&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aryabadwe007&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
@@ -96,7 +99,7 @@
 
 # 💼 Featured Projects
 
-### 🎬 Movie Ticket Booking System
+## 🎬 Movie Ticket Booking System
 
 - ASP.NET Core
 - React.js
@@ -109,25 +112,25 @@
 
 ---
 
-### 🐄 Predictive Veterinary Care
+## 🐄 Predictive Veterinary Care
 
 Machine Learning based Disease Detection System
 
 - CNN
 - Random Forest
 - Naive Bayes
-- Support Vector Classifier
+- Support Vector Machine
 - React Frontend
 
 ---
 
-### 🌍 Sanidhya Foundation Website
+## 🌍 Sanidhya Foundation Website
 
 NGO Website built using
 
 - React
 - Node.js
-- Express
+- Express.js
 - MongoDB
 
 ---
@@ -137,45 +140,40 @@ NGO Website built using
 - SOC Operations
 - SIEM
 - Threat Hunting
-- Log Analysis
 - Digital Forensics
-- Incident Response
 - Malware Analysis
+- Incident Response
 - Detection Engineering
+- Cloud Security
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/aryabadwe007">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
-<a href="https://www.linkedin.com/in/arya-badwe-383ab3325">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/arya-badwe-383ab3325/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
 </p>
 
 ---
 
-# 💻 Coding Profiles
-
-- 💙 GitHub: https://github.com/aryabadwe007
-- 🟠 LeetCode: https://leetcode.com/u/Arya0704/
-
----
-
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=aryabadwe007&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=aryabadwe007&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
 
 ---
 
 <h3 align="center">
-⭐ Thanks for visiting my profile ⭐
+⭐ Thanks for visiting my profile! ⭐
 </h3>
