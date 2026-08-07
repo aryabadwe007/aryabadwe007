@@ -1,27 +1,28 @@
 <h1 align="center">Hi 👋, I'm Arya Badwe</h1>
 
 <h3 align="center">
-Software Developer | SOC Intern | Full Stack Developer | Cybersecurity Enthusiast
+Software Developer • SOC Intern • Full Stack Developer • Cybersecurity Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Software+Developer;SOC+Intern+at+ESDS;Full+Stack+Developer;Cybersecurity+Enthusiast;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Software+Developer;SOC+Intern+at+ESDS;Full+Stack+Developer;Cybersecurity+Enthusiast;Always+Learning+Always+Building" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 BE in Computer Engineering
+- 🎓 Bachelor of Engineering in Computer Engineering
 - 🎓 PG-DAC Student (CDAC Pune)
 - 🔐 Currently working as a **SOC Intern at ESDS**
-- 💻 Passionate about Software Development & Cyber Security
+- 💻 Passionate about Software Development, Cloud & Cybersecurity
 - 🌱 Currently learning
   - SIEM
   - Threat Hunting
   - Incident Response
-  - Cloud Security
   - Detection Engineering
+  - Cloud Security
+  - Google Cybersecurity Professional Certificate
 - 🚀 Building Full Stack Applications & Security Projects
 - ⚽ Football Enthusiast
 
@@ -35,7 +36,7 @@ Software Developer | SOC Intern | Full Stack Developer | Cybersecurity Enthusias
 <img src="https://skillicons.dev/icons?i=java,cs,cpp,c,js,html,css" />
 </p>
 
-### ⚙️ Frameworks
+### ⚙️ Frameworks & Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,dotnet,nodejs,express,bootstrap" />
@@ -55,7 +56,7 @@ Software Developer | SOC Intern | Full Stack Developer | Cybersecurity Enthusias
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -91,7 +92,7 @@ Software Developer | SOC Intern | Full Stack Developer | Cybersecurity Enthusias
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aryabadwe007&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aryabadwe007&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -114,7 +115,7 @@ Software Developer | SOC Intern | Full Stack Developer | Cybersecurity Enthusias
 
 ## 🐄 Predictive Veterinary Care
 
-Machine Learning based Disease Detection System
+Machine Learning-based disease detection system using:
 
 - CNN
 - Random Forest
@@ -126,7 +127,7 @@ Machine Learning based Disease Detection System
 
 ## 🌍 Sanidhya Foundation Website
 
-NGO Website built using
+Responsive NGO website built using:
 
 - React
 - Node.js
@@ -135,16 +136,17 @@ NGO Website built using
 
 ---
 
-# 📚 Currently Learning
+# 📚 Current Learning
 
-- SOC Operations
-- SIEM
-- Threat Hunting
-- Digital Forensics
-- Malware Analysis
-- Incident Response
-- Detection Engineering
-- Cloud Security
+| Learning Path | Status |
+|---------------|--------|
+| Google Cybersecurity Professional Certificate | 🔄 In Progress |
+| SOC Operations | 🔄 Ongoing |
+| SIEM & Log Analysis | 🔄 Ongoing |
+| Threat Hunting | 🔄 Ongoing |
+| Incident Response | 🔄 Ongoing |
+| Detection Engineering | 🔄 Ongoing |
+| Cloud Security | 🔄 Ongoing |
 
 ---
 
@@ -156,9 +158,9 @@ NGO Website built using
 <img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/arya-badwe-383ab3325/">
+<a href="https://www.linkedin.com/in/arya-badwe-383ab3325">
 <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
@@ -175,5 +177,5 @@ NGO Website built using
 ---
 
 <h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
+⭐ Thank you for visiting my profile! ⭐
 </h3>
