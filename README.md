@@ -1,67 +1,181 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 align="center">Hi 👋, I'm Arya Badwe</h1>
+<h3 align="center">Software Developer | SOC Intern | Full Stack Developer | Cybersecurity Enthusiast</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer;SOC+Intern+at+ESDS;Full+Stack+Developer;Cybersecurity+Enthusiast;Always+Learning+New+Technologies" />
+</p>
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
+---
 
-###
+## 👨‍💻 About Me
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=aryabadwe007.aryabadwe007&"  />
-</div>
+- 🎓 BE in Computer Engineering
+- 🎓 PG-DAC Student (CDAC Pune)
+- 🔐 Currently working as a **SOC Intern at ESDS**
+- 💻 Passionate about Full Stack Development & Cyber Security
+- 🌱 Currently learning
+  - SIEM
+  - SOC Operations
+  - Incident Response
+  - Detection Engineering
+  - Cloud Security
+- 🚀 Love building real-world applications
+- ⚡ Fun Fact: I love Football, Cricket & Technology
 
-###
+---
 
-<h1 data-importer="text" align="center">hey there 👋</h1>
+## 🚀 Tech Stack
 
-###
+### Programming Languages
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=java,cs,cpp,c,js,html,css" />
+</p>
 
-###
+### Frameworks & Libraries
 
-<p data-importer="text" align="left"># Hi there, I'm Arya Badwe 👋<br><br>I'm Arya Badwe, a passionate **Cybersecurity Enthusiast** and **SOC Intern** from Nashik, India. I have a strong background in Full Stack Development and I'm currently building my career in Security Operations, Threat Detection, and Incident Response.<br><br>* 🔐 Currently working as a **SOC Intern**, gaining hands-on experience with SIEM, log analysis, alert investigation, and incident response.<br>* 🎓 Pursuing the **Google Cybersecurity Professional Certificate** while continuously strengthening my cybersecurity knowledge.<br>* 💻 Experienced in **Java, C#, .NET, React, Node.js, SQL Server, MongoDB, HTML, CSS, and JavaScript**.<br>* 🛡️ Currently learning **Networking, Linux, SIEM, Threat Intelligence, Digital Forensics, and Security Operations**.<br>* 🚀 Built a **Movie Ticket Booking System** using **ASP.NET Core, React, SQL Server, SignalR, JWT Authentication, and Razorpay Integration**.<br>* 📚 Building a public **Cybersecurity Portfolio** by documenting my SOC internship, security tools, and hands-on learning on GitHub.<br>* 🌱 Goal: To become a skilled **SOC Analyst** and contribute to protecting organizations from evolving cyber threats.<br>* ⚽ Football Player | 🏆 Best Player of the Tournament (2023 & 2024)</p>
+<p>
+<img src="https://skillicons.dev/icons?i=react,dotnet,nodejs,express,bootstrap" />
+</p>
 
-###
+### Database
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-###
+### Cloud & Tools
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,git,github,vscode,postman,linux" />
+</p>
 
-###
+---
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+# 📊 GitHub Stats
 
-###
+<p align="center">
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=aryabadwe007&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aryabadwe007&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
 
-###
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryabadwe007&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=aryabadwe007&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryabadwe007&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aryabadwe007&theme=tokyonight&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 💼 Featured Projects
+
+### 🎬 Movie Ticket Booking System
+
+- ASP.NET Core
+- React.js
+- SQL Server
+- JWT Authentication
+- SignalR
+- Razorpay Integration
+- AWS S3
+- Azure Deployment
+
+---
+
+### 🐄 Predictive Veterinary Care
+
+Machine Learning based Disease Detection System
+
+- CNN
+- Random Forest
+- Naive Bayes
+- Support Vector Classifier
+- React Frontend
+
+---
+
+### 🌍 Sanidhya Foundation Website
+
+NGO Website built using
+
+- React
+- Node.js
+- Express
+- MongoDB
+
+---
+
+# 📚 Currently Learning
+
+- SOC Operations
+- SIEM
+- Threat Hunting
+- Log Analysis
+- Digital Forensics
+- Incident Response
+- Malware Analysis
+- Detection Engineering
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/aryabadwe007">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/arya-badwe-383ab3325">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+- 💙 GitHub: https://github.com/aryabadwe007
+- 🟠 LeetCode: https://leetcode.com/u/Arya0704/
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=aryabadwe007&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
