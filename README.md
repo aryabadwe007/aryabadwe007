@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineering+%7C+Full+Stack+Development;ASP.NET+Core+%7C+React+%7C+SQL+Server;Cybersecurity+%7C+SOC+%7C+SIEM+%7C+Threat+Detection;AI%2FML+%7C+Computer+Vision+%7C+Cloud;Building+Secure%2C+Scalable+%26+Production-Ready+Systems" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineering+%7C+Full+Stack+Development;ASP.NET+Core+%7C+React+%7C+SQL+Server;Cybersecurity+%7C+SOC+%7C+SIEM+%7C+Threat+Detection;Building+Secure%2C+Scalable+%26+Production-Ready+Systems" alt="Typing SVG"/>
 
 <br><br>
 
@@ -38,9 +38,9 @@
 
 I am **Arya Badwe**, a Computer Engineering graduate and **PG-DAC professional** with a strong interest in building secure, scalable and production-oriented software systems.
 
-My experience spans **Full Stack Development, .NET, React, SQL Server, AI/ML, Cloud and Cybersecurity**, with practical exposure to both software engineering and Security Operations Center environments.
+My experience spans **Full Stack Development, .NET, React, SQL Server and Cybersecurity**, with practical exposure to both software engineering and Security Operations Center environments.
 
-I enjoy working across the complete engineering lifecycle — from understanding requirements and designing databases to developing APIs, building responsive interfaces, implementing authentication, integrating real-time communication and deploying applications to the cloud.
+I enjoy working across the complete engineering lifecycle — from understanding requirements and designing databases to developing APIs, building responsive interfaces, implementing authentication, integrating real-time communication and deploying applications.
 
 Currently, I am expanding my expertise in **SOC operations, SIEM, log analysis, threat detection, incident investigation and security monitoring**, while continuing to strengthen my software engineering foundation.
 
@@ -53,13 +53,11 @@ Backend Engineering      ██████████████████�
 Database Engineering     ███████████████████░  Strong
 Frontend Development     ███████████████████░  Strong
 Cybersecurity / SOC      ███████████████░░░░░  Developing
-AI / ML                  ██████████████░░░░░░  Developing
-Cloud & DevOps           ██████████████░░░░░░  Developing
 ```
 
 ### OPEN TO
 
-`Software Engineering` · `Full Stack Development` · `Backend Development` · `Cybersecurity` · `SOC` · `AI/ML` · `Cloud & DevOps`
+`Software Engineering` · `Full Stack Development` · `Backend Development` · `Cybersecurity` · `SOC`
 
 ---
 
@@ -147,11 +145,7 @@ A production-oriented **full-stack movie ticket booking platform** developed as 
 * Implemented Controller-Service-Repository architecture
 * Built responsive React frontend using Vite and Bootstrap
 * Implemented JWT-based authentication
-* Implemented role-based access for:
-
-  * Customer
-  * Theatre Manager
-  * Admin
+* Implemented role-based access for Customer, Theatre Manager and Admin
 * Integrated **SignalR** for real-time seat availability
 * Implemented seat locking and booking workflows
 * Integrated **Razorpay** payment gateway
@@ -191,11 +185,7 @@ An AI/ML-based disease detection system designed to assist in identifying **Lump
 * Connected the GUI with backend prediction services
 * Integrated image-based disease detection workflow
 * Worked with CNN-based image classification
-* Implemented symptom-based prediction using:
-
-  * Naive Bayes
-  * Support Vector Classifier
-  * Random Forest
+* Implemented symptom-based prediction using Naive Bayes, SVC and Random Forest
 * Worked with domain-specific image datasets
 * Implemented multilingual support
 * Designed the interface for practical usability
@@ -263,15 +253,7 @@ Working in a practical SOC environment with exposure to **SIEM, security logs, a
 * Investigate network security events
 * Work with Linux-based log analysis
 * Understand LTS and log storage workflows
-* Study SOC performance metrics including:
-
-  * MTTD
-  * MTTR
-  * False Positive Rate
-  * False Negative Rate
-  * SLA
-  * Alert Volume
-  * Incident Volume
+* Study SOC performance metrics including MTTD, MTTR, False Positive Rate, False Negative Rate, SLA, Alert Volume and Incident Volume
 * Understand public/private IP addressing
 * Develop practical understanding of security monitoring and incident analysis
 
@@ -412,71 +394,9 @@ Worked on practical **Full Stack Development** with a focus on React and applica
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aryabadwe007/aryabadwe007/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/aryabadwe007/aryabadwe007/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
 
 </div>
-
----
-
-## CURRENT FOCUS
-
-```yaml
-name: Arya Badwe
-
-Current_Role:
-  - SOC Intern
-
-Learning:
-  - SOC Operations
-  - SIEM
-  - Log Analysis
-  - Threat Detection
-  - Incident Analysis
-  - Network Security
-  - Linux
-  - System Design
-  - Advanced Backend Engineering
-  - Cloud & DevOps
-
-Building:
-  - Secure Full Stack Applications
-  - REST APIs
-  - Real-Time Systems
-  - Cybersecurity Projects
-  - Practical SOC Knowledge
-
-Exploring:
-  - Security Operations
-  - SIEM Use Cases
-  - Threat Detection
-  - DevSecOps
-  - Cloud Security
-  - AI/ML Engineering
-  - System Design
-
-Tech_Stack:
-  - C++
-  - Java
-  - C#
-  - Python
-  - JavaScript
-  - React
-  - ASP.NET Core
-  - Node.js
-  - SQL Server
-  - MongoDB
-  - AWS
-  - Azure
-
-Open_To:
-  - Software Engineering
-  - Full Stack Development
-  - Backend Development
-  - Cybersecurity
-  - SOC
-  - AI/ML
-  - Cloud & DevOps
-```
 
 ---
 
